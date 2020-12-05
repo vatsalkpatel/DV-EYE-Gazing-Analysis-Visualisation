@@ -22,7 +22,7 @@
     </ul>
   </ol>
   
-###  Class Number : CECS 550-01  
+###  Class Number : CECS 450 
   <ol>
     <li>Project Number and Name : 
     <ul>
