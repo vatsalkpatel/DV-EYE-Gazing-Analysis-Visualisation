@@ -34,9 +34,10 @@
     </li>
     <li>Team Members : 
         <ol>
-          <li>Sean Pereira</li>
-          <li>Sushmitha Pasala</li>
-          <li>Vatsal Patel</li>
+          <li>Anurag</li>
+          <li>Chum</li>
+         <li>Sonu</li>
+         <li>Vatsal Patel</li>
         </ol>
       </li>
   </ol>
